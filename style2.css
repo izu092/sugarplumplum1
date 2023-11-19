@@ -1,0 +1,37 @@
+body {
+    background-image: url(pexels-kristina-paukshtite-1146758.jpg);
+    text-align:center;
+    margin-top: 150px;
+    background-position: top;
+}
+
+h1 {
+    color: lightsalmon;
+    font-size: 50px;
+}
+
+label {
+    color: lightsalmon;
+    font-size: 30px;
+
+}
+
+input {
+    height: 25px;
+    width: 400px;
+    border-radius:8px;
+    font-size:25px;
+    font-family: Monospace;
+    font-weight: bold;
+}
+
+button{
+
+    margin-top: 30px;
+    font-size: medium;
+    color: darkgreen;
+    height: 50px;
+    border-radius: 10px;
+    background-color:antiquewhite;
+    width: 150px;
+}
